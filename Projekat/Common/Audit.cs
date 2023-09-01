@@ -14,5 +14,12 @@ namespace Common
         public MessageType MessageType { get; set; }
         public string Message { get; set; }
 
+
+        public Audit()
+        {
+            Timestamp = DateTime.Now;
+        }
+
+
     }
 }

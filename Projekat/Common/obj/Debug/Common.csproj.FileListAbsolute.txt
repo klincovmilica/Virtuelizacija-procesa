@@ -1,0 +1,5 @@
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Common\bin\Debug\Common.dll
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Common\bin\Debug\Common.pdb
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Common\obj\Debug\Common.dll
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Common\obj\Debug\Common.pdb

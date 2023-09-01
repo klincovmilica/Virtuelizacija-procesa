@@ -9,5 +9,11 @@ namespace Service
 {
     public class LoadService : ILoadService
     {
+        DatabaseHelper databaseHelper = new DatabaseHelper(new IMDatabase(), new XMLDatabase(new FileHelper()));
+        public Result GetLoads(DateTime dateTime)
+        {
+            return databaseHelper.GetLoads(dateTime);
+        }
+
     }
 }

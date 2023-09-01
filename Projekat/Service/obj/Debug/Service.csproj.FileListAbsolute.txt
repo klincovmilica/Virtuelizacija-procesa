@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\bin\Debug\Service.exe.config
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\bin\Debug\Service.exe
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\bin\Debug\Service.pdb
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\bin\Debug\Common.dll
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\bin\Debug\Common.pdb
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\obj\Debug\Service.exe
+C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\obj\Debug\Service.pdb
