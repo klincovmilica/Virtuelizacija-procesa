@@ -3,3 +3,15 @@ C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Common\bin\Debug\C
 C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Common\obj\Debug\Common.dll
 C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Common\obj\Debug\Common.pdb
+C:\Users\Danijel\Downloads\Projekat\Common\bin\Debug\Common.dll
+C:\Users\Danijel\Downloads\Projekat\Common\bin\Debug\Common.pdb
+C:\Users\Danijel\Downloads\Projekat\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Danijel\Downloads\Projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Danijel\Downloads\Projekat\Common\obj\Debug\Common.dll
+C:\Users\Danijel\Downloads\Projekat\Common\obj\Debug\Common.pdb
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Common\bin\Debug\Common.dll
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Common\bin\Debug\Common.pdb
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Common\obj\Debug\Common.dll
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Common\obj\Debug\Common.pdb

@@ -102,6 +102,7 @@ namespace Service
              {
                  try
                  {
+                    fileStream.Position = 0;
                      XDocument xdoc = XDocument.Load(fileStream);
                      return xdoc;
                  }

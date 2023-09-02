@@ -8,3 +8,23 @@ C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Client\obj\Debug\C
 C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Client\obj\Debug\Client.csproj.CopyComplete
 C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Client\obj\Debug\Client.exe
 C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Client\obj\Debug\Client.pdb
+C:\Users\Danijel\Downloads\Projekat\Client\bin\Debug\Client.exe.config
+C:\Users\Danijel\Downloads\Projekat\Client\bin\Debug\Client.exe
+C:\Users\Danijel\Downloads\Projekat\Client\bin\Debug\Client.pdb
+C:\Users\Danijel\Downloads\Projekat\Client\bin\Debug\Common.dll
+C:\Users\Danijel\Downloads\Projekat\Client\bin\Debug\Common.pdb
+C:\Users\Danijel\Downloads\Projekat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Danijel\Downloads\Projekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Danijel\Downloads\Projekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Danijel\Downloads\Projekat\Client\obj\Debug\Client.exe
+C:\Users\Danijel\Downloads\Projekat\Client\obj\Debug\Client.pdb
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Client\bin\Debug\Client.exe.config
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Client\bin\Debug\Client.exe
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Client\bin\Debug\Client.pdb
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Client\bin\Debug\Common.dll
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Client\bin\Debug\Common.pdb
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Client\obj\Debug\Client.exe
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Client\obj\Debug\Client.pdb

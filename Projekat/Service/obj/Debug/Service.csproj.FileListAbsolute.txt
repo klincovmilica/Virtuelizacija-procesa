@@ -8,3 +8,23 @@ C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\obj\Debug\
 C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\obj\Debug\Service.csproj.CopyComplete
 C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\obj\Debug\Service.exe
 C:\Users\user\OneDrive\Radna površina\REPOZITORIJUM\Projekat\Service\obj\Debug\Service.pdb
+C:\Users\Danijel\Downloads\Projekat\Service\bin\Debug\Service.exe.config
+C:\Users\Danijel\Downloads\Projekat\Service\bin\Debug\Service.exe
+C:\Users\Danijel\Downloads\Projekat\Service\bin\Debug\Service.pdb
+C:\Users\Danijel\Downloads\Projekat\Service\bin\Debug\Common.dll
+C:\Users\Danijel\Downloads\Projekat\Service\bin\Debug\Common.pdb
+C:\Users\Danijel\Downloads\Projekat\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\Danijel\Downloads\Projekat\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Danijel\Downloads\Projekat\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Danijel\Downloads\Projekat\Service\obj\Debug\Service.exe
+C:\Users\Danijel\Downloads\Projekat\Service\obj\Debug\Service.pdb
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Service\bin\Debug\Service.exe.config
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Service\bin\Debug\Service.exe
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Service\bin\Debug\Service.pdb
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Service\bin\Debug\Common.dll
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Service\bin\Debug\Common.pdb
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Service\obj\Debug\Service.exe
+C:\Users\user\OneDrive\Radna površina\projekaaaaat virt zad 3\Projekat\Service\obj\Debug\Service.pdb
